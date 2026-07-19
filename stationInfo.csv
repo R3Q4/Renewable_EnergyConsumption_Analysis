@@ -1,0 +1,122 @@
+S/N,Station ID,Current Station Name ,Previous Station Name,Latitude,Longitude,Current Observations,,,,,Ultraviolet Index (UVI),Heat Stress,Historical Daily Records,Station Closed 
+,,,,,,Rainfall,Temperature,Relative Humidity,Wind,Visibility,,,,
+1,S07,Macritchie Reservoir,-,1.341782,103.833873,1,0,0,0,0,0,0,1,0
+2,S08,Lower Peirce Reservoir,-,1.370034,103.827037,1,0,0,0,0,0,0,1,0
+3,S11,Jalan Bahar,Choa Chu Kang (West),1.374500,103.693800,0,0,0,0,0,0,0,1,1
+4,S24,Changi Meteorological Station,Changi,1.367800,103.982300,1,1,1,1,1,1,0,1,0
+5,S29,Pasir Ris Road,Pasir Ris (West),1.386500,103.941300,0,0,0,0,0,0,0,1,1
+6,S31,Kampong Bahru Road,Kampong Bahru,1.274800,103.828200,0,0,0,0,0,0,0,1,1
+7,S33,Jurong Pier Road,Jurong Pier,1.308200,103.710000,1,0,0,0,0,0,0,1,0
+8,S35,Old Toh Tuck Road,Ulu Pandan,1.332500,103.755000,1,0,0,0,0,0,0,1,0
+9,S36,Upper Serangoon Road,Serangoon,1.337650,103.866150,0,0,0,0,0,0,0,1,1
+10,S39,Jalan Ahmad Ibrahim,Jurong (East),1.325170,103.736750,0,0,0,0,0,0,0,1,1
+11,S40,Mandai Lake Road,Mandai,1.403511,103.789647,1,0,0,0,0,0,0,1,0
+12,S43,Kim Chuan Road,Tai Seng,1.340583,103.888138,1,1,1,1,0,0,0,1,0
+13,S44,Nanyang Avenue,Jurong (West),1.345630,103.680669,1,1,1,1,0,0,0,1,0
+14,S46,Sime Road,Upper Thomson,1.341550,103.810780,0,0,0,0,0,0,0,1,1
+15,S50,Clementi Road,Clementi,1.331800,103.776200,1,1,1,1,0,0,0,1,0
+16,S55,Buangkok Green,Buangkok,1.383600,103.886000,0,0,0,0,0,0,0,1,1
+17,S60,Artillery Avenue (Sentosa),Sentosa Island,1.250429,103.827494,1,1,1,1,0,0,0,1,0
+18,S61,Chai Chee Street,Chai Chee,1.327100,103.920650,0,0,0,0,0,0,0,1,1
+19,S63,International Road,Boon Lay (West),1.327470,103.704170,0,0,0,0,0,0,0,1,1
+20,S64,Bukit Panjang Road,Bukit Panjang,1.382280,103.760670,1,0,0,0,0,0,0,1,0
+21,S66,Kranji Reservoir,-,1.438670,103.736020,1,0,0,0,0,0,0,1,0
+22,S69,Upper Peirce Reservoir,-,1.370400,103.804600,1,0,0,0,0,0,0,1,0
+23,S71,Kent Ridge Road,Kent Ridge,1.292321,103.781620,1,0,0,0,0,0,0,1,0
+24,S72,Prince Edward Road,Tanjong Pagar,1.273900,103.848200,0,0,0,0,0,0,0,1,1
+25,S77,Alexandra Road,Queenstown,1.293506,103.812588,1,0,0,0,0,0,0,1,0
+26,S78,Poole Road,Tanjong Katong,1.307030,103.890670,1,0,0,0,0,0,0,1,0
+27,S79,Somerset Road,Somerset (Road),1.300300,103.837200,1,0,0,0,0,0,0,1,0
+28,S81,Punggol Central,Punggol,1.402800,103.909500,1,0,0,0,0,0,0,1,0
+29,S82,Tuas West Road,Tuas West,1.324800,103.635200,0,0,0,0,0,0,0,1,1
+30,S84,Tampines Avenue 5,Simei,1.344280,103.944050,1,0,0,0,0,0,0,1,0
+31,S86,Chia Ping Road,Boon Lay (East),1.330322,103.720443,0,0,0,0,0,0,0,1,1
+32,S88,Toa Payoh North,Toa Payoh,1.341700,103.851500,1,0,0,0,0,0,0,1,0
+33,S89,Tuas Road,Tuas,1.319900,103.661300,0,0,0,0,0,0,0,1,1
+34,S90,Bukit Timah Road,Bukit Timah,1.319100,103.819300,1,0,0,0,0,0,0,1,0
+35,S91,Yishun Avenue 5,Yishun,1.429896,103.830673,0,0,0,0,0,0,0,1,1
+36,S92,South Buona Vista Road,Buona Vista,1.284080,103.788750,1,0,0,0,0,0,0,1,0
+37,S94,Pasir Ris Street 51,Pasir Ris (Central),1.367900,103.948900,1,0,0,0,0,0,0,1,0
+38,S101,Corporation Road,Jurong (North),1.350500,103.713400,0,0,0,0,0,0,0,1,1
+39,S102,Semakau Island,-,1.190201,103.765725,1,1,1,1,0,0,0,1,0
+40,S104,Woodlands Avenue 9,Admiralty,1.443900,103.785400,1,1,1,1,0,0,0,1,0
+41,S105,Admiralty Road West,Admiralty West,1.458170,103.795250,0,0,0,0,0,0,0,1,1
+42,S106,Jalan Noordin (Pulau Ubin),Pulau Ubin,1.416800,103.967300,1,1,1,1,0,0,0,1,0
+43,S107,East Coast Park,East Coast Parkway,1.313320,103.961980,1,1,1,1,0,0,0,1,0
+44,S108,Marina Barrage,-,1.280160,103.870740,1,0,0,1,0,0,0,1,0
+45,S109,Ang Mo Kio Avenue 5,Ang Mo Kio,1.379270,103.850020,1,1,1,1,0,0,0,1,0
+46,S110,Serangoon North Avenue 1,Serangoon North,1.369335,103.869064,0,0,0,0,0,0,0,1,1
+47,S111,Scotts Road,Newton,1.310596,103.836438,1,1,1,1,0,0,0,1,0
+48,S112,Lim Chu Kang Road,Lim Chu Kang,1.438800,103.701700,1,0,0,0,0,0,0,1,0
+49,S113,Marine Parade Road,Marine Parade,1.306480,103.910400,1,0,0,0,0,0,0,1,0
+50,S114,Choa Chu Kang Avenue 4,Choa Chu Kang (Central),1.382100,103.738100,1,0,0,0,0,0,0,1,0
+51,S115,Tuas South Avenue 3,Tuas South,1.293893,103.618442,1,1,1,1,0,0,0,1,0
+52,S116,Pasir Panjang Terminal,Pasir Panjang,1.282393,103.754713,1,1,1,1,0,0,0,1,0
+53,S117,Banyan Road (Jurong Island),Jurong Island,1.254152,103.674222,1,1,1,1,0,0,0,1,0
+54,S118,Handy Road,Dhoby Ghaut,1.299587,103.846127,0,0,0,0,0,0,0,1,1
+55,S119,Nicoll Highway,-,1.295023,103.862120,1,0,0,0,0,0,0,1,0
+56,S120,Botanic Garden,-,1.308092,103.818301,1,0,0,0,0,0,0,1,0
+57,S121,Old Choa Chu Kang Road,Choa Chu Kang (South),1.373686,103.721772,1,1,1,1,0,0,0,1,0
+58,S122,Sembawang Road,Khatib,1.417250,103.825130,0,0,0,0,0,0,0,1,1
+59,S123,Towner Road ,Whampoa,1.321376,103.857663,1,0,0,0,0,0,0,1,0
+60,S06,Paya Lebar Meteorological Station,Paya Lebar,1.356995,103.903962,1,1,1,1,1,0,0,1,0
+61,S23,Tengah Meteorological Station,Tengah,1.385800,103.711900,1,1,1,1,1,0,0,1,0
+62,S25,Seletar Meteorological Station,Seletar,1.412840,103.869220,1,0,0,0,1,0,0,1,0
+63,S80,Sembawang Meteorological Station,Sembawang,1.424748,103.820152,1,1,1,0,1,0,0,1,0
+64,S100,Sungei Kadut Street 3,-,1.417200,103.748550,1,0,0,0,0,0,0,1,0
+65,S201,Sunset Way,-,1.322941,103.767337,1,0,0,0,0,0,0,1,0
+66,S203,Pasir Panjang Road,-,1.292015,103.770516,1,0,0,0,0,0,0,1,0
+67,S208,Changi East Close,-,1.313630,104.003165,1,0,0,0,0,0,0,1,0
+68,S209,Yishun Ring Road,-,1.421079,103.845177,1,0,0,0,0,0,0,1,0
+69,S210,Woodlands Centre Road,-,1.440034,103.769036,1,0,0,0,0,0,0,1,0
+70,S211,Kranji Road,-,1.429175,103.757113,1,0,0,0,0,0,0,1,0
+71,S213,Coronation Walk,-,1.324273,103.809703,1,0,0,0,0,0,0,1,0
+72,S214,Tanjong Rhu,-,1.299106,103.882892,1,0,0,0,0,0,0,1,0
+73,S215,Geylang East Central,-,1.318130,103.883031,1,0,0,0,0,0,0,1,0
+74,S216,Ang Mo Kio Avenue 10,-,1.360194,103.853344,1,0,0,0,0,0,0,1,0
+75,S217,Bishan Street 13,-,1.350278,103.855000,1,0,0,0,0,0,0,1,0
+76,S218,Bukit Batok Street 34,-,1.364907,103.750648,1,0,0,0,0,0,0,1,0
+77,S219,Yio Chu Kang Road,-,1.379983,103.876392,1,0,0,0,0,0,0,1,0
+78,S220,Compassvale Lane,-,1.386665,103.897970,1,0,0,0,0,0,0,1,0
+79,S221,Hougang Avenue 1,-,1.356909,103.890875,1,0,0,0,0,0,0,1,0
+80,S222,Henderson Road,-,1.289872,103.823637,1,0,0,0,0,0,0,1,0
+81,S223,Margaret Drive,-,1.299843,103.802646,1,0,0,0,0,0,0,1,0
+82,S224,Airport Boulevard,-,1.343944,103.983863,1,0,0,0,0,0,0,1,0
+83,S226,Malan Road,-,1.274927,103.803919,1,0,0,0,0,0,0,1,0
+84,S227,Woodlands Drive 62,-,1.439979,103.804100,1,0,0,0,0,0,0,1,0
+85,S228,Jurong West Street 73,-,1.347033,103.700726,1,0,0,0,0,0,0,1,0
+86,S229,Jurong West Street 42,-,1.351930,103.721670,1,0,0,0,0,0,0,1,0
+87,S230,West Coast Road,-,1.301667,103.764440,1,0,0,0,0,0,0,1,0
+88,S300,Bedok Reservoir,-,1.343065,103.919669,1,0,0,0,0,0,0,1,0
+89,S301,Neo Tiew Lane 2 ,-,1.415322,103.728712,0,0,0,0,0,0,0,1,0
+90,S302,Tengeh Reservoir,-,1.338130,103.663030,1,0,0,0,0,0,0,1,0
+91,S303,Poyan Reservoir,-,1.383751,103.658176,0,0,0,0,0,0,0,1,0
+92,S305,Sarimbun Reservoir,-,1.421604,103.681275,0,0,0,0,0,0,0,1,0
+93,S306,Murnane Service Reservoir,-,1.350849,103.785966,1,0,0,0,0,0,0,1,0
+94,S307,Pulau Tekong Reservoir,-,1.410542,104.041394,0,0,0,0,0,0,0,1,0
+95,S308,Seletar Reservoir,-,1.401584,103.808133,1,0,0,0,0,0,0,1,0
+96,S310,Lorong Danau,-,1.361097,103.682570,0,0,0,0,0,0,0,1,0
+97,S127,Kallang Practice Track,-,1.305738,103.878174,0,0,0,0,0,0,1,1,0
+98,S129,Bedok Stadium,-,1.325746,103.939691,0,0,0,0,0,0,1,1,0
+99,S130,Clementi Stadium,-,1.310524,103.763426,0,0,0,0,0,0,1,1,0
+100,S131 ,Hougang Stadium,-,1.368423,103.885865,0,0,0,0,0,0,1,0,1
+101,S132,Jurong West Stadium,Jurong Stadium,1.337859,103.695383,0,0,0,0,0,0,1,1,0
+102,S902,Yishun Walk,-,1.414570,103.831060,1,0,0,0,0,0,0,1,0
+103,S124,Changi Meteorological Station,Changi,1.367770,103.982262,0,0,0,0,0,0,1,0,0
+104,S126,Old Choa Chu Kang Road,Choa Chu Kang,1.372566,103.724358,0,0,0,0,0,0,1,0,0
+105,S137,Sakra Road (Jurong Island),Jurong Island (Central),1.257100,103.698000,0,0,0,0,0,0,1,0,0
+106,S125,Woodlands Stadium,-,1.433789,103.780731,0,0,0,0,0,0,1,0,0
+107,S128,Bishan Stadium,-,1.354825,103.852219,0,0,0,0,0,0,1,0,0
+108,S139,Tuas Terminal Gateway,-,1.263757,103.616417,0,0,0,0,0,0,1,0,0
+109,S140,Choa Chu Kang Stadium,-,1.390524,103.749664,0,0,0,0,0,0,1,0,0
+110,S141,Yio Chu Kang Stadium,-,1.382564,103.846190,0,0,0,0,0,0,1,0,0
+111,S142,Palawan Green (Sentosa),Sentosa Palawan Green,1.249504,103.819178,0,0,0,0,0,0,1,0,0
+112,S143,Punggol North,-,1.410469,103.904965,0,0,0,0,0,0,1,0,0
+113,S187,Coronation Road,Bukit Timah(West),1.322506,103.801390,0,0,0,0,0,0,1,0,0
+114,S144,Hong Lim Park ,-,1.286011,103.846989,0,0,0,0,0,0,1,0,0
+115,S149,Tampines Central Park,-,1.353835,103.938823,0,0,0,0,0,0,1,0,0
+116,S150,MOE (Evans) Stadium,-,1.321182,103.819737,0,0,0,0,0,0,1,0,0
+117,S153,Bukit Batok Swimming Complex,-,1.344713,103.749078,0,0,0,0,0,0,1,0,0
+118,S184,Sengkang East Avenue,-,1.382559,103.898526,0,0,0,0,0,0,1,0,0
+,,,,,,,,,,,,,,
+Updated 25 Feb 2026,,,,,,,,,,,,,,
