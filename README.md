@@ -19,7 +19,7 @@ This project analyzes the relationship between Singapore's electricity consumpti
 5. Linear regression modelling
 6. Forecasting electricity demand
 7. Comparison between projected renewable generation and electricity demand
-8. Suggestions
+8. Suggestions on actions for different stakeholders
 9. Conclusion
        
 --- 
